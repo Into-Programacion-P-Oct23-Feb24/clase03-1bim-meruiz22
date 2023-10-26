@@ -16,11 +16,9 @@ public class Ejemplo03 {
      */
     public static void main(String[] args) {
         // Para crear un comentario de una linea se debe poner doble slast y un espacio 
-        
-        // Tipos de dato en Java
 
+        // Tipos de dato en Java
         // Tipo de datos Entero
-        
         /*Para crear un comentario de multiples lineas se realizase debe poner slast y asterisco
         q
         q
@@ -32,7 +30,7 @@ public class Ejemplo03 {
         q
         q
         q
-        */
+         */
         int variable1;
         int variable2 = 10;
         int valorInicial = 18;
@@ -55,13 +53,13 @@ public class Ejemplo03 {
         // tipo de dato boolean - boleano
         boolean variable9 = false;
         boolean variable10 = true;
-        
+
         boolean variable11 = false;
         // boolean variable11 = false; // incorrecto
         variable11 = false;
         variable11 = true;
         // variable11 = variable6;
-        
+
     }
 
 }
